@@ -62,6 +62,7 @@ python app.py
 
 ## Folder Structure
 
+```
 Gesture-Control-Volume/
 │
 ├─ app.py                 # Main program loop
@@ -72,11 +73,12 @@ Gesture-Control-Volume/
 ├─ assets/                # Demo video or images
 │   └─ demo_video.mp4
 └─ .gitignore             # Ignore venv, __pycache__, etc.
+```
 
 ---
 
-### Demo
-## 🎥 Watch how the gestures work:
+## Demo
+### 🎥 Watch how the gestures work:
 
 - ✊ Make a fist → MUTE
 - ✋ Open hand → FREEZE VOLUME
