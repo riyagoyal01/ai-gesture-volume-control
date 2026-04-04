@@ -46,17 +46,19 @@ This is a **terminal-based ML application** demonstrating gesture recognition an
 ```bash
 pip install -r requirements.txt
 
-### Run the Project
+## Run the Project
 
-## 1. Connect your webcam.
-## 2. Run the main program:
+### 1. Connect your webcam.
+### 2. Run the main program:
 ```bash
 python app.py
 
-## 3. Control your system volume using gestures.
-## 4. Press q to exit.
+### 3. Control your system volume using gestures.
+### 4. Press q to exit.
 
-### Folder Structure
+---
+
+## Folder Structure
 
 Gesture-Control-Volume/
 │
@@ -68,6 +70,8 @@ Gesture-Control-Volume/
 ├─ assets/                # Demo video or images
 │   └─ demo_video.mp4
 └─ .gitignore             # Ignore venv, __pycache__, etc.
+
+---
 
 ### Demo
 ## 🎥 Watch how the gestures work:
