@@ -1,7 +1,5 @@
 # Gesture-Controlled Volume System 🎛️🤏✋✊
 
-![Demo](assets/demo_video.mp4)
-
 Control your **system volume in real-time** using just **hand gestures** with your webcam — no GUI needed.  
 This is a **terminal-based ML application** demonstrating gesture recognition and system integration.
 
