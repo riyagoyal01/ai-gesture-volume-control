@@ -45,6 +45,7 @@ This is a **terminal-based ML application** demonstrating gesture recognition an
 - Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Run the Project
 
@@ -52,6 +53,7 @@ pip install -r requirements.txt
 ### 2. Run the main program:
 ```bash
 python app.py
+```
 
 ### 3. Control your system volume using gestures.
 ### 4. Press q to exit.
