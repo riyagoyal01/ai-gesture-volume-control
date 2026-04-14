@@ -9,8 +9,7 @@ This is a **terminal-based ML application** demonstrating gesture recognition an
 - 🖐 **Real-time hand gesture recognition** using MediaPipe  
 - 🔊 **System volume control** with Pycaw  
 - ✊ **Mute**, ✋ **Freeze Volume**, 🤏 **Adjust Volume** gestures  
-- ✅ Modular code, easy to read and extend  
-- 🎥 Demo video included in `assets/`  
+- ✅ Modular code, easy to read and extend`  
 
 ---
 
@@ -70,18 +69,7 @@ Gesture-Control-Volume/
 ├─ volume_control.py      # System volume control
 ├─ requirements.txt       # Python dependencies
 ├─ README.md              # Project documentation
-├─ assets/                # Demo video or images
-│   └─ demo_video.mp4
 └─ .gitignore             # Ignore venv, __pycache__, etc.
 ```
 
 ---
-
-## Demo
-### 🎥 Watch how the gestures work:
-
-- ✊ Make a fist → MUTE
-- ✋ Open hand → FREEZE VOLUME
-- 🤏 Pinch (thumb + index) → ADJUST VOLUME
-
-Video is located in **assets/demo_video.mp4** showing live gesture control in action.
